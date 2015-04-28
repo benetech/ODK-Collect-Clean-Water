@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/adbern/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/adbern/AndroidStudioProjects/ODK_Collect/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-ea49d2dd4f5ea30eb9250537256c8afbdbddd7dc.jar" />
+    </item>
+    <item
+        jar="/Users/adbern/AndroidStudioProjects/ODK_Collect/app/libs/maps.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="f6c45f826139ed3ac91bb732aa22772aa10b9a23">
+        <dex dex="/Users/adbern/AndroidStudioProjects/ODK_Collect/app/build/intermediates/pre-dexed/debug/maps-d983a911e042156352959728e22d721fd3eef2dc.jar" />
+    </item>
+    <item
+        jar="/Users/adbern/AndroidStudioProjects/ODK_Collect/app/libs/httpmime-4.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="e0340636480aea12d38b0fb6a6ed1f06c5c79c5a">
+        <dex dex="/Users/adbern/AndroidStudioProjects/ODK_Collect/app/build/intermediates/pre-dexed/debug/httpmime-4.0-5aa47d0a2100035829b727eb548fa660a398c769.jar" />
+    </item>
+    <item
+        jar="/Users/adbern/AndroidStudioProjects/ODK_Collect/app/libs/google-play-services.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="38c2f8e192dc24ddbf6cae2784f3d4267af66a3e">
+        <dex dex="/Users/adbern/AndroidStudioProjects/ODK_Collect/app/build/intermediates/pre-dexed/debug/google-play-services-ca43a68c45151697d5d2afed7baa7c9d5eae5696.jar" />
+    </item>
+    <item
+        jar="/Users/adbern/AndroidStudioProjects/ODK_Collect/app/libs/joda-time-2.4.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="89e9725439adffbbd41c5f5c215c136082b34a7f">
+        <dex dex="/Users/adbern/AndroidStudioProjects/ODK_Collect/app/build/intermediates/pre-dexed/debug/joda-time-2.4-fdf0a0eb4320c36116780afd5ae4d7947be5e207.jar" />
+    </item>
+    <item
+        jar="/Users/adbern/AndroidStudioProjects/ODK_Collect/app/libs/kxml2-2.3.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ccbc77a5fd907ef863c29f3596c6f54ffa4e9442">
+        <dex dex="/Users/adbern/AndroidStudioProjects/ODK_Collect/app/build/intermediates/pre-dexed/debug/kxml2-2.3.0-a8b4b46be8c64a9564f4c42402526fa045bf81a6.jar" />
+    </item>
+    <item
+        jar="/Users/adbern/AndroidStudioProjects/ODK_Collect/app/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/adbern/AndroidStudioProjects/ODK_Collect/app/build/intermediates/pre-dexed/debug/commons-io-2.4-937d1709f314f57bbe6f5039786e0ec5a4bd2518.jar" />
+    </item>
+    <item
+        jar="/Users/adbern/AndroidStudioProjects/ODK_Collect/app/libs/opencsv-2.3.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c0ffd01065bc3fe571e1a4eb7014a03333f0663d">
+        <dex dex="/Users/adbern/AndroidStudioProjects/ODK_Collect/app/build/intermediates/pre-dexed/debug/opencsv-2.3-9598a42e954943f8ac4e8539b041b03360c810f0.jar" />
+    </item>
+    <item
+        jar="/Users/adbern/AndroidStudioProjects/ODK_Collect/app/libs/javarosa-libraries-2014-04-29.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="11999a090a90bb7256be32285d56333e53a8e3d5">
+        <dex dex="/Users/adbern/AndroidStudioProjects/ODK_Collect/app/build/intermediates/pre-dexed/debug/javarosa-libraries-2014-04-29-316a05b7d173222e4d1cbd6c546566f2e23eb44c.jar" />
+    </item>
+    <item
+        jar="/Users/adbern/AndroidStudioProjects/ODK_Collect/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/adbern/AndroidStudioProjects/ODK_Collect/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-f0f5f995ddee7d03553c2a86aea4b5e6d433de3e.jar" />
+    </item>
+    <item
+        jar="/Users/adbern/AndroidStudioProjects/ODK_Collect/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/adbern/AndroidStudioProjects/ODK_Collect/app/build/intermediates/pre-dexed/debug/classes-c9286cd4e2e9f504584e76561c7a4e2b6e966991.jar" />
+    </item>
+    <item
+        jar="/Users/adbern/AndroidStudioProjects/ODK_Collect/app/libs/httpclientandroidlib-4.2.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="8bdf7922c7f165bc2f4ec893eaf97e4abe47f97f">
+        <dex dex="/Users/adbern/AndroidStudioProjects/ODK_Collect/app/build/intermediates/pre-dexed/debug/httpclientandroidlib-4.2.1-a06a5959f7ba6c2d0e90a2d610ec883c6831d658.jar" />
+    </item>
+
+</items>
